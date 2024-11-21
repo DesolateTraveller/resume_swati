@@ -52,7 +52,7 @@ st.set_page_config(page_title="Resume | Swati Banerjee",
                    page_icon= "📑",              
                    initial_sidebar_state="collapsed")
 #----------------------------------------
-st.title(f""":blue[Avijit Chakraborty]""")
+st.title(f""":blue[Swati banerjee]""")
 #----------------------------------------
 col1, col2 = st.columns((0.92,0.08))
 with col1:
