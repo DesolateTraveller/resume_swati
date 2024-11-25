@@ -59,7 +59,7 @@ with col1:
     st.info('**Manager | Competent analytics and engineering professional offering 8+ years’ experience in predictive modelling, data science, machine learning, deep learning, generative AI and project & people management.**')
 with col2:
     with st.popover("**:blue[:pushpin: Contact]**", help="click to get contact details"): 
-            st.markdown('**Mobile : (91) 98310 76675 | Email : <a href="mailto:avijit.mba18@gmail.com">avijit.mba18@gmail.com</a>**', 
+            st.markdown('**Mobile : (91) 98742 13287 | Email : <a href="mailto:avijit.mba18@gmail.com">avijit.mba18@gmail.com</a>**', 
             unsafe_allow_html=True)  
 #----------------------------------------
 # Set the background image
